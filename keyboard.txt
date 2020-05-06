@@ -1,0 +1,14 @@
+//Vim Surround
+V -> S -> <p class="important"> : <p class="important"></p>
+cs"': "Hello World"-> 'Hello World'
+ds": "Hello World" -> Hello World
+ysiw]: [Hello] World
+
+//Vim NERDTree
+,m: toggle nav menu
+
+//Move lines:
+V -> select lines -> ctrl + j/k(down, up)
+
+// Focus project
+C: current project
