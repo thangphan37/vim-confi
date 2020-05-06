@@ -21,6 +21,7 @@ Plugin 'tpope/vim-commentary'
 Plugin 'ervandew/supertab'
 Plugin 'w0rp/ale'
 Plugin 'prettier/vim-prettier',{ 'do': 'yarn install'}
+Plugin 'tpope/vim-surround'
 call vundle#end()            
 
 " Indent using spaces instead of tabs
